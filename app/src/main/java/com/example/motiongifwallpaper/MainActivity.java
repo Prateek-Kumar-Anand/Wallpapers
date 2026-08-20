@@ -43,7 +43,7 @@ public class MainActivity extends Activity {
 
         TextView subtitle = new TextView(this);
         subtitle.setText("Browse any GIF and turn it into a moving live wallpaper.");
-        subtitle.setTextColor(0xDDEFFFFFF);
+        subtitle.setTextColor(0xDDEFFFFF);
         subtitle.setTextSize(16);
         subtitle.setGravity(Gravity.CENTER);
         subtitle.setPadding(0, 0, 0, 24);
