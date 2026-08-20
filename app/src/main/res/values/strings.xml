@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Motion GIF Wallpaper</string>
+    <string name="wallpaper_name">Motion GIF Wallpaper</string>
+    <string name="wallpaper_description">Set any browsed GIF as an animated live wallpaper.</string>
+</resources>
